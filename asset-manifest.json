@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.d9f183df.chunk.css",
-  "main.js": "/portfolio/static/js/main.d41f4820.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.d41f4820.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.a0171242.chunk.css",
+  "main.js": "/portfolio/static/js/main.e294608f.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.e294608f.chunk.js.map",
   "static/js/1.5bff5668.chunk.js": "/portfolio/static/js/1.5bff5668.chunk.js",
   "static/js/1.5bff5668.chunk.js.map": "/portfolio/static/js/1.5bff5668.chunk.js.map",
   "static/js/2.56aff611.chunk.js": "/portfolio/static/js/2.56aff611.chunk.js",
@@ -13,8 +13,8 @@
   "static/media/iot.jpg": "/portfolio/static/media/iot.5ee3d70d.jpg",
   "static/media/backgroundImage-pankaj.jpg": "/portfolio/static/media/backgroundImage-pankaj.189edaf5.jpg",
   "static/media/profile-image-pankaj.jpg": "/portfolio/static/media/profile-image-pankaj.01401a0f.jpg",
-  "static/css/main.d9f183df.chunk.css.map": "/portfolio/static/css/main.d9f183df.chunk.css.map",
+  "static/css/main.a0171242.chunk.css.map": "/portfolio/static/css/main.a0171242.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.2c42500e03399c08b8e5eaad17b0cb23.js": "/portfolio/precache-manifest.2c42500e03399c08b8e5eaad17b0cb23.js",
+  "precache-manifest.934592daae662154d426deced409ffd0.js": "/portfolio/precache-manifest.934592daae662154d426deced409ffd0.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
